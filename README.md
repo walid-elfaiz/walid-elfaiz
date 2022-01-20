@@ -4,7 +4,8 @@
 **walid-elfaiz/walid-elfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on React.
+- 🔭 I’m currently working on [React Native](https://reactnative.dev
+).
 - 🌱 I’m interested in learning Swift and Kotlin.
 - 🤔 I’m looking for a 6 month internship for my next semester (Bac+4) ...
 - 📫 How to reach me: I'm 24/7 available at [LinkedIn](www.linkedin.com/in/walid-elfaiz
